@@ -10,7 +10,6 @@ namespace ScreenPlay.Test
         protected IWebDriver driver;
         protected string Url = "https://camilomabe.github.io/camilomabe/";
         protected string PathChrome = @"C:\Driver";
-        //D:\ProyectosAuto\Apk\ScreenPlay\screenplay-pattern-master\ScreenPlay\Driver
 
         [SetUp]
         public void SetUpBase()
