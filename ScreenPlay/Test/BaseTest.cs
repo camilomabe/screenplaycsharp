@@ -8,8 +8,8 @@ namespace ScreenPlay.Test
     public class BaseTest
     {
         protected IWebDriver driver;
-        protected string Url = "https://camilomabe2014.github.io/camilomabe/";
-        protected string PathChrome = @"D:\ProyectosAuto\Apk\ScreenPlay\screenplay-pattern-master\ScreenPlay\Driver";
+        protected string Url = "https://camilomabe.github.io/camilomabe/";
+        protected string PathChrome = @"C:\Driver";
         //D:\ProyectosAuto\Apk\ScreenPlay\screenplay-pattern-master\ScreenPlay\Driver
 
         [SetUp]
